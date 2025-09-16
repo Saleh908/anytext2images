@@ -2,7 +2,7 @@
 Any blob of text → Extract the images → Preview & download = Fast
 
 Turn any blob of text into a gallery of images then download what you want.
-Paste messy HTML, logs, or random snippets containing URLs — anytext2images finds the image links, previews them, and lets you download them individually or all at once as a ZIP.
+Paste messy HTML, logs, or random snippets containing URLs — anytext2images finds the image links, previews them, and lets you download them individually or all at once as a ZIP.<img width="600" height="800" alt="Screenshot 2025-09-16 at 2 39 04 PM" src="https://github.com/user-attachments/assets/be51a739-9c7a-4e19-9f2f-238aff8cbfe5" />
 
 Why?
 Because sometimes you’re buried in a wall of garbage HTML, and all you want are the damn images.
