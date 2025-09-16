@@ -16,7 +16,9 @@ Smart parsing – handles messy HTML, srcset attributes, and weird trailing punc
 Filters & safety – optional file-extension filtering, optional HEAD verification, and a per-file size cap.
 Zero config – no database, no API keys, no secrets. Just works.
 
-# Quick Start
+
+
+Quick Start
 # clone and install
 git clone https://github.com/aiwebautomation/anytext2images.git
 
