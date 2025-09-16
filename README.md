@@ -38,8 +38,10 @@ streamlit run app.py
 Open http://localhost:8501 and paste your blob.
 
 CLI Usage
-python cli.py -i input.txt -o images.zip
-python cli.py -i input.txt --print-urls
+
+ python cli.py -i input.txt -o images.zip
+ 
+ python cli.py -i input.txt --print-urls
 
 ## Disclaimer
 This tool is for personal and educational use only.
