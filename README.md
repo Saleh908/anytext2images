@@ -40,6 +40,7 @@ Open http://localhost:8501 and paste your blob.
 
 
 CLI Usage
+ 
  python cli.py -i input.txt -o images.zip
  
  python cli.py -i input.txt --print-urls
