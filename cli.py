@@ -1,0 +1,1 @@
+<actual cli.py content from previous answer>
