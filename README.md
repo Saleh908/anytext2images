@@ -42,5 +42,5 @@ python cli.py -i input.txt -o images.zip
 python cli.py -i input.txt --print-urls
 
 ## Disclaimer
-This tool is for personal and educational use only. It does not bypass paywalls or access protected content.  
-Be mindful of copyright and terms of service when downloading or reusing images.
+This tool is for personal and educational use only.
+Do not use this tool on private/protected content without permission.
