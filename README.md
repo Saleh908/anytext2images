@@ -1,4 +1,4 @@
-<img width="2972" height="1692" alt="image" src="https://github.com/user-attachments/assets/47aaf267-7108-4348-ac0a-8c420c551453" /># anytext2images
+# anytext2images
 Any blob of text → Extract the images → Preview & download = Fast
 
 Turn any blob of text into a gallery of images then download what you want.
