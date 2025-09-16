@@ -18,8 +18,11 @@ Zero config – no database, no API keys, no secrets. Just works.
 Quick Start
 # clone and install
 git clone https://github.com/aiwebautomation/anytext2images.git
+
 cd anytext2images
+
 python3 -m venv .venv && source .venv/bin/activate
+
 pip install -r requirements.txt
 
 # launch UI
