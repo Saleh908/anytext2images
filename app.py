@@ -63,7 +63,7 @@ def fetch_image(url: str):
 
 st.set_page_config(page_title="anytext2images", page_icon="🖼️", layout="wide")
 st.title("anytext2images")
-st.caption("Paste any blob of text. Get image URLs, previews, and downloads. No drama.")
+st.caption("Paste any blob of text → Extract the images → Preview & Download = Fast")
 
 with st.sidebar:
     st.header("Options")
@@ -137,4 +137,4 @@ if run:
             )
 
 st.markdown("---")
-st.caption("anytext2images — built for speed, not politeness.")
+st.caption("anytext2images — Built to simply work right out of the box.")
