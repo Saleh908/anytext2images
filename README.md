@@ -60,14 +60,12 @@ python cli.py -i input.txt --no-ext-filter
  git add .
  git commit -m "fix: ignore venv"
 
+No images found: disable filter by extension or enable HEAD verification in the sidebar (some CDNs hide extensions).
 
- No images found: disable filter by extension or enable HEAD verification in the sidebar (some CDNs hide extensions).
+403/blocked previews: some hosts disallow hotlinking or HEAD. Toggle verification off or use CLI.
+Huge downloads: raise MAX_BYTES in app.py.
 
- 403/blocked previews: some hosts disallow hotlinking or HEAD. Toggle verification off or use CLI.
-
- Huge downloads: raise MAX_BYTES in app.py.
-
-Known Limitations
+## Known Limitations
 Hotlinking may fail on domains that block external previews.
 
 Some srcset URLs are device/width-specific and won’t resolve directly.
@@ -76,7 +74,10 @@ HEAD verification can be blocked; use GET or disable verification.
 
 This is a text parser, not a crawler: it won’t find images that aren’t present in your pasted text.
 
+
 ##Disclaimer
 This tool is for personal and educational use.
+
 It does not bypass paywalls or access protected content.
+
 Respect site terms and copyright — you’re responsible for how you use downloaded images.
